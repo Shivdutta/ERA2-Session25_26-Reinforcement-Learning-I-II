@@ -44,7 +44,7 @@
     python Gridworld.py -k 100 -a q -s 2000
 
 ## Gridworld Output
-    https://github.com/Shivdutta/ERA2-Session25_26-Reinforcement-Learning-I-II/blob/main/Gridworld.png
+    ![Gridworld](gridworld.png)
 
 # Car Simulation 
         
