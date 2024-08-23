@@ -64,7 +64,8 @@
 - sand,pnd is generates as programs learns during training
 
 ## Demo
-    ## [Car Simulation](https://youtu.be/R9vKHr1zBeI) 📹
+    
+    [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/R9vKHr1zBeI/0.jpg)](https://www.youtube.com/watch?v=R9vKHr1zBeI)
 
 ## Questions
 
