@@ -47,20 +47,22 @@
     https://github.com/Shivdutta/ERA2-Session25_26-Reinforcement-Learning-I-II/blob/main/Gridworld.png
 
 ## Car Simulation 
-    Youtube link: 
+    Youtube link: [https://youtu.be/R9vKHr1zBeI]([https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://youtu.be/R9vKHr1zBeI))
 
 ## Pre requisites:
 - Env : python 3.6.9 and can run till python 3.9
-- requirements.txt 
+- pip install kivy
 
 ## Environment Creation and running program:
 - From google map I have taken the are where I live.
 - Cropped the image from the satellite map by  making labels off.
 - Using Libre Offie Draw(Ubuntu) oe MS Paint(windows), all navigation path are created.
-- This include drawing path for main roads and sub roads etc. 
+- This includes drawing path for main roads and sub roads etc. 
 - The main image is removed and drawn image is saved as MASK.png
-- The same image is 90 degree rotated and and saved as MASK1.png and sand.png
+- The same image is 90 degree rotated and and saved as MASK1.png.
 - The program is run from command line using :
+  python map.py
+- sand,pnd is generates as programs learns during training
 
 ## Demo
 
