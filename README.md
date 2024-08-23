@@ -44,7 +44,7 @@
     python Gridworld.py -k 100 -a q -s 2000
 
 ## Gridworld Output
-    ![Gridworld](gridworld.png)
+    ![image-5](gridworld.png)
 
 # Car Simulation 
         
