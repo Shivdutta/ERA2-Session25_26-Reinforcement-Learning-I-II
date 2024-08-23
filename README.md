@@ -44,7 +44,7 @@
     python Gridworld.py -k 100 -a q -s 2000
 
 ## Gridworld Output
-    ![image-5](gridworld.png)
+![image-5](gridworld.png)
 
 # Car Simulation 
         
@@ -61,11 +61,10 @@
 - The same image is 90 degree rotated and and saved as MASK1.png.
 - The program is run from command line using :
   python map.py
-- sand,pnd is generates as programs learns during training
+- sand.pnG is generates as programs learns during training
 
 ## Demo    
-    # Watch this Video   [![Watch the video](https://img.youtube.com/vi/R9vKHr1zBeI/0.jpg)](https://youtu.be/R9vKHr1zBeI)
-
+[![Watch the video](https://img.youtube.com/vi/R9vKHr1zBeI/0.jpg)](https://youtu.be/R9vKHr1zBeI)
     
 ## Questions
 
