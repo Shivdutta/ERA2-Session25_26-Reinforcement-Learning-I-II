@@ -46,9 +46,8 @@
 ## Gridworld Output
     https://github.com/Shivdutta/ERA2-Session25_26-Reinforcement-Learning-I-II/blob/main/Gridworld.png
 
-## Car Simulation 
-    Youtube link: [https://youtu.be/R9vKHr1zBeI]([https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://youtu.be/R9vKHr1zBeI))
-
+# Car Simulation 
+        
 ## Pre requisites:
 - Env : python 3.6.9 and can run till python 3.9
 - pip install kivy
@@ -65,8 +64,7 @@
 - sand,pnd is generates as programs learns during training
 
 ## Demo
-
-TBD
+    [Car Simulation](https://youtu.be/R9vKHr1zBeI) 
 
 ## Questions
 
