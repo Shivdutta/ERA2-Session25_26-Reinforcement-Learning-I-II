@@ -64,7 +64,8 @@
 - sand,pnd is generates as programs learns during training
 
 ## Demo    
-    ![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/R9vKHr1zBeI/0.jpg)
+    # Watch this Video   [![Watch the video](https://img.youtube.com/vi/R9vKHr1zBeI/0.jpg)](https://youtu.be/R9vKHr1zBeI)
+
     
 ## Questions
 
