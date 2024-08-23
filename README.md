@@ -63,10 +63,9 @@
   python map.py
 - sand,pnd is generates as programs learns during training
 
-## Demo
+## Demo    
+    ![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/R9vKHr1zBeI/0.jpg)
     
-    [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/R9vKHr1zBeI/0.jpg)](https://www.youtube.com/watch?v=R9vKHr1zBeI)
-
 ## Questions
 
 Q1. What happens when "boundary-signal" is weak when compared to the last reward?
