@@ -61,7 +61,7 @@
 - The same image is 90 degree rotated and and saved as MASK1.png.
 - The program is run from command line using :
   python map.py
-- sand.pnG is generates as programs learns during training
+- sand.jpeg is created/updated as program learns during training
 
 ## Demo    
 [![Watch the video](https://img.youtube.com/vi/R9vKHr1zBeI/0.jpg)](https://youtu.be/R9vKHr1zBeI)
